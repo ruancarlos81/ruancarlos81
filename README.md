@@ -6,7 +6,7 @@
 - 😄 Pronouns: Ele/Dele.
 
 <div>
-  <a href="https://beacons.ai/runacarlos81">
+  <a href="https://github.com/ruancarlos81">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=ruancarlos81&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlos81&layout=compact&langs_count=16&theme=dark"/>
 </div>
