@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`** 
 
-Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Univali. Sou apaixonada por tecnologia e compartilho meu aprendizado através do meu canal no YouTube "[Ruan Carlos](https://www.youtube.com/@ProgramadorRuan)", onde mostro minha evolução na área, e também através do Instagram, com o perfil chamado "[Ruan Dev](https://www.instagram.com/dev_ruan1/)".
+Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVALI. Sou apaixonado por tecnologia e compartilho meu aprendizado através do meu canal no YouTube "[Ruan Carlos](https://www.youtube.com/@ProgramadorRuan)", onde mostro minha evolução na área, e também através do Instagram, com o perfil chamado "[Ruan Dev](https://www.instagram.com/dev_ruan1/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@ProgramadorRuan?sub_confirmation=1">
