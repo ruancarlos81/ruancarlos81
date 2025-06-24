@@ -2,40 +2,7 @@
 
 **`Desenvolvedor BackEnd`** 
 
-Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVALI. Sou apaixonado por tecnologia e compartilho meu aprendizado através do meu canal no YouTube "[Ruan Carlos](https://www.youtube.com/@ProgramadorRuan)", onde mostro minha evolução na área, e também através do Instagram, com o perfil chamado "[Ruan Dev](https://www.instagram.com/dev_ruan1/)".
-
-<p align="left">
-    <a href="https://www.youtube.com/@ProgramadorRuan?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOkY5gkKGUtmRZisnX8T6_g?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@ProgramadorRuan">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCOkY5gkKGUtmRZisnX8T6_g?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/ruancarlos81?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ruancarlos81?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ruancarlos81?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ruancarlos81?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
+Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIVALI. Sou apaixonado por tecnologia e venho dia a dia buscando por conhecimento sobre a área.
 
 ### 🤖 Linguagens e Tecnologias
 
