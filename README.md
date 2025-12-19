@@ -78,3 +78,4 @@ Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente,
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlos81&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </div>
+
