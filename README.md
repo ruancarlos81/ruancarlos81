@@ -12,8 +12,8 @@ Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente,
     title="Java"
     width="30px" 
     style="padding-right: 10px;"
-    <img src="icons8-programação-c" />
-/>
+    src="icons8-programação-c"
+    />
 <img 
     align="left" 
     alt="C"
