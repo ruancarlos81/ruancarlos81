@@ -47,9 +47,6 @@ Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente,
 ### 📊 Estatísticas
 <br/>
 
-### 📊 Estatísticas
-<br/>
-
 <table>
   <tr>
     <td>
