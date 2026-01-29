@@ -47,19 +47,26 @@ Me chamo Ruan Carlos, tenho 24 anos e sou natural do Santa Catarina. Atualmente,
 ### 📊 Estatísticas
 <br/>
 
-<div style="display: flex; align-items: left;">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="175" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ruancarlos81&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="right" 
-    alt="GitHub Stats" 
-    height="175" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlos81&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</div>
+### 📊 Estatísticas
+<br/>
+
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="175" 
+        src="https://github-readme-stats.vercel.app/api?username=ruancarlos81&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Linguagens" 
+        height="175" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarlos81&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
+
 
